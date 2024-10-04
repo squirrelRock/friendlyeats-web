@@ -2,6 +2,7 @@
 
 import { initializeApp, getApps } from "firebase/app";
 import { firebaseConfig } from "./config";
+console.log("Firebase Config:", firebaseConfig);
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
