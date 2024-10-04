@@ -1,14 +1,7 @@
 env:
-  # Get these values from the Firebase console
-  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+  NEXT_PUBLIC_FIREBASE_API_KEY: "AIzaSyC_wj76nn2KzRQWKzV4Oh4UknbBGd35FvQ"
+  NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN: "friendlyeats-take2.firebaseapp.com"
+  NEXT_PUBLIC_FIREBASE_PROJECT_ID: "friendlyeats-take2"
+  NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET: "friendlyeats-take2.appspot.com"
+  NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: "811714090518"
+  NEXT_PUBLIC_FIREBASE_APP_ID: "1:811714090518:web:78976f6aa2ad2170900737"
